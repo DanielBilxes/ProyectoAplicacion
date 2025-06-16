@@ -1,0 +1,17 @@
+com\ufro\Ficha_viajes\model\Carga.class
+com\ufro\Ficha_viajes\model\Camion.class
+com\ufro\Ficha_viajes\model\Neumatico.class
+com\ufro\Ficha_viajes\model\Peaje.class
+com\ufro\Ficha_viajes\model\Viaje.class
+com\ufro\Ficha_viajes\model\Conductor.class
+com\ufro\Ficha_viajes\model\AdBlue.class
+com\ufro\Ficha_viajes\model\Petroleo.class
+com\ufro\Ficha_viajes\controller\ViajeViewController.class
+com\ufro\Ficha_viajes\controller\ViajeRestController.class
+com\ufro\Ficha_viajes\repository\ViajeRepository.class
+com\ufro\Ficha_viajes\service\PdfService.class
+com\ufro\Ficha_viajes\config\WebConfig.class
+com\ufro\Ficha_viajes\FichaViajesApplication.class
+com\ufro\Ficha_viajes\controller\GlobalExceptionHandler.class
+com\ufro\Ficha_viajes\model\Viatico.class
+com\ufro\Ficha_viajes\service\ViajeService.class
