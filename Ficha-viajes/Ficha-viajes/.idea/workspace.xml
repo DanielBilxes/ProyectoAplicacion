@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b99fa8e5-68a7-49c2-b5f2-61f0437a1eec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ufro/Ficha_viajes/controller/ViajeController.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../frontend/src/components/FichasCreadas.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/ficha-viaje.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/ficha-viaje.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/components/FichaCreada.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/components/FichaViaje.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/components/FichaViaje.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/components/MenuView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/components/MenuView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../frontend/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +198,7 @@
       <workItem from="1749732231593" duration="585000" />
       <workItem from="1749753574356" duration="2000" />
       <workItem from="1749753585155" duration="24000" />
+      <workItem from="1750791598727" duration="6876000" />
     </task>
     <servers />
   </component>
